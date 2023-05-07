@@ -7,3 +7,4 @@
 * [წინა ბოლო კოდი](https://github.com/xxai-art/web)
 * [ენების პაკეტები მთლიანად საიტისთვის](https://github.com/xxai-art/web/tree/main/i18n)
 * [ენის პაკეტები შესვლის მოდულებისთვის](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [ვებსაიტის მრავალენოვანი დოკუმენტაცია](https://github.com/xxai-doc)
