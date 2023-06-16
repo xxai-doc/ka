@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , დაამატეთ რამდენიმე ფუნქცია coffeescript სინტაქსის საფუძველზე, იხილეთ [coffee_plus](./coffee_plus.md) .
 
-* ცვლადის გამოცხადება
+## ცვლადის გამოცხადება
 
 ```
 + var1, var2
 ```
 
-* დეკლარაციის ეტიკეტი
+## დეკლარაციის ეტიკეტი
 
 `:$` არის [სველტთან](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) გამოსაყენებლად.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* სწრაფი იმპორტი
+## სწრაფი იმპორტი
 
 ```
 > zx/globals:
